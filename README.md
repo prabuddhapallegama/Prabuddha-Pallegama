@@ -12,7 +12,7 @@ Passionate about solving complex academic problems and continuously improving my
 - **Tools & Platforms:** Git, GitHub, VS Code
 
 ---
-
+   
 ### 📫 Connect with Me
 - 💼 **LinkedIn:** [Harshana Prabhuddha](https://www.linkedin.com/in/harshana-prabuddha-pallegama-5b5836385)
 - ✉️ **Email:** bandars721@gmail.com
